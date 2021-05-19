@@ -7,3 +7,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Add](./Commands/Add.md)
 - [Git Commit](./Commands/commit.md)
 - [Git Remote](./Commands/Remote.md)
+- [Git Push](./commands/PUSH.md)
+- [Git Pull](./commands/pull.md)
+- [Git Status](./Commands/Status.md)
+- [Git Clone](./commands/clone.md)
